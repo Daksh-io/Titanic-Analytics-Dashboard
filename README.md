@@ -3,6 +3,9 @@
 ## 📌 Overview
 This Advanced Titanic Analytics Dashboard is a comprehensive data visualization and exploration tool built with Python's Tkinter GUI library and Matplotlib for interactive charts. It allows users to analyze the Titanic passenger dataset with dynamic filtering, statistical insights, and export capabilities.
 
+## Screenshot
+![Dashboard Screenshot](Screenshot%202025-07-30%20161214.png)
+
 
 ## ✨ Key Features
 ### 📊 Interactive Visualizations
